@@ -11,42 +11,42 @@ Paulo Henrique Carneiro Silva - 4221
 ## Conjunto de dados: FIES (http://dadosabertos.mec.gov.br/fies)
 
 ## Perguntas a serem respondidas:
-1 - Faixa salarial predominante no requerimento do FIES
+1 - Há uma faixa renda per capita predominante no requerimento do FIES?
 
-2 - Estado com o maior número inscrições 
+2 - Como é a dispersão entre os dados da quantidade de inscrições para os estados das IES com mais e menos inscritos?
 
-3 - Faixa predominante de espera entre a conclusão do ensino médio e a admissão na faculdade
+3 - Existe uma faixa predominante de espera entre a conclusão do ensino médio e a inscrição na faculdade por meio do FIES?
 
-4 - Estimativa do uso do programa do FIES por pessoas com deficiência
+4 - As pessoas com deficiência estão menos inseridas nos aceitos do FIES?
 
-5 - Diferença do valor bruto e valor do curso pro FIES (desconto)
+5 - As pessoas pretas e pardas estão menos inseridas nos aceitos do FIES?
 
-6 - Qual sexo usa predominantemente os recursos do FIES
+6 - É possível estabelecer uma relação entre sexo e média de notas do enem?
 
-7 - Unidade federativa que possui mais ingressantes do programa
+7 - É possível estabelecer uma relação entre a UF de residência e a UF da IES?
 
-8 - Área de conhecimento mais cursada
+8 - Quem concluiu o curso superior possui uma renda per capita maior?
 
-9 - Frequências de cada curso, ou seja, quais cursos são mais buscados pelos usuários do programa FIES
+9 - É possível estabelecer uma relação entre renda e turno? (Hipótese: quem possui uma renda maior estuda à noite)
 
-10 - Medias do valores "emprestados" pelo FIES
+10 - Existe uma relação entre área do conhecimento e notas do enem?
 
-11 - Estimativa de demanda de vagas
+11 - Há uma relação entre nota do enem e situação da inscrição?
 
-12 - Etnias mais inscritas nos cursos
+12 - Existe uma relação entre a UF e a área de conhecimento
 
-13 - Estimativa de demanda de vagas por estado
+13 - Há uma relação entre número de membros da família e renda familiar mensal bruta?
 
-14 - Médias das notas do enem dos participantes do programa
+14 - É possível estabelecer uma relação entre ano de conclusão de ensino médio e a nota da redação?
 
-15 - Faixa de idade com mais procura do programa
+15 - Existe uma faixa de idade que mais procura os recursos do programa?
 
-16 - Comparação das médias das notas de 2020 com as de 2019. (Análise se as notas se alteraram na pandemia)
+16 - Há uma relação entre as opções de inscrição de uma dada pessoa e a subárea de conhecimento?
 
-17 - Comparação das médias das notas por estado
+17 - Existe uma subárea que é mais escolhida como primeira opção?
 
-18 - Relação entre estudantes que possuem ensino superior e utilizam o programa
+18 - Há relação entre número de vagas que mantenedoras públicas ou privadas patrocinam?
 
-19 - Previsão das médias das notas de acordo com os anos anteriores
+19 - Pode-se estabelecer uma relação entre curso e organização acadêmica?
 
-20 - Turno com mais procura pelos estudantes matriculados pelo FIES
+20 - Existe relação entre nota do enem e renda familiar?
